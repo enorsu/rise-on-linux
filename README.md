@@ -19,4 +19,4 @@
 11. Once Rise is launched and logged in it might show you an error like [this](https://imgur.com/a/nEcYdgB), but don't worry it should be completely harmless
 12. Enjoy!
 
-<h5>This script is not made by a official Rise developer</h5>
+<h5>This script is not made by an official Rise developer</h5>
