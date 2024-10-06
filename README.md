@@ -17,4 +17,4 @@
 9. Open terminal in the Rise v6 New folder
 10. Run the script(eg. `sh "Start Linux.sh"`)
 11. Once Rise is launched and logged in it might show you an error like [this](https://imgur.com/a/nEcYdgB), but don't worry it should be completely harmless
-12. Enjoy Rise!
+12. Enjoy!
