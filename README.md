@@ -1,7 +1,7 @@
 # Downloading the natives and script
 
-1. Create new folder in Rise v6 New/files/dependants/linux
-2. Download https://github.com/MeFisto94/lwjgl/releases/tag/refs%2Ftags%2F2.9.4
+1. Create new folder in Rise v6 New/files/dependants/ called linux
+2. Download the fixed natives from https://github.com/MeFisto94/lwjgl/releases/tag/refs%2Ftags%2F2.9.4
 3. Extract it
 4. Place contents of extracted /lwjgl-2.9.4/native/linux/ to Rise v6 New/files/dependants/linux/natives
 5. Download the launch script [here](https://github.com/enorsu/rise/raw/refs/heads/main/scripts/Start%20Linux.sh) or alternatively run `wget https://github.com/enorsu/rise/raw/refs/heads/main/scripts/Start%20Linux.sh` in Rise's directory --> Step 7.
