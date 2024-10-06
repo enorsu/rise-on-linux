@@ -15,4 +15,4 @@
 # Launching Rise
 
 9. Open terminal in the Rise v6 New folder
-10. Run the script(eg. sh "Start Linux.sh")
+10. Run the script(eg. `sh "Start Linux.sh"`)
