@@ -23,5 +23,8 @@
 12. Once Rise is launched and logged in it might show you an error like [this](https://imgur.com/a/nEcYdgB), but don't worry it should be completely harmless
 13. Enjoy!
 
+# Auto-Updating(testing)
+Run the script with the argument `--update`, it should get the latest script from Github for you
+
 <h5>This script is not made by an official Rise developer</h5>
 <h5>This script is a modified version of the official launch script</h5>
