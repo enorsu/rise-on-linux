@@ -4,6 +4,7 @@ if [ "$1" = "--update" ]; then
     echo "Updating Script!"
     rm "Linux Start.sh"
     wget -N https://github.com/enorsu/rise/raw/refs/heads/main/scripts/Start%20Linux.sh
+    sh "Linux Start.sh"
 else
     mkdir save
     cd save
