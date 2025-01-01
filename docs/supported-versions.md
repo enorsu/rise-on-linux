@@ -2,4 +2,4 @@
 
 - Rise 6.1.30
 - Rise 6.2.x
-- Rise 6.3(untested)
+- Rise 6.3
