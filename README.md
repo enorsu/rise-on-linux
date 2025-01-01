@@ -1,6 +1,6 @@
 # Rise on Linux
 
-Supported versions(soon)
+[Supported versions](./docs/supported-versions.md)
 
 Message me on Discord(`enorsu`) for support.
 
