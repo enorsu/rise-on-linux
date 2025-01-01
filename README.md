@@ -1,6 +1,8 @@
 # Rise on Linux
-This script has been confirmed to work with Rise 6.1.30, 6.2.x
-Message me on Discord for support.
+
+Supported versions(soon)
+
+Message me on Discord(`enorsu`) for support.
 
 This is a workaround to run [Rise Client](https://riseclient.com) on Linux(natively). This script does **NOT** support cracked versions of Rise.
 
